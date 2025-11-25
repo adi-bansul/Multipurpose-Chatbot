@@ -1,8 +1,3 @@
-Here is a **clean, professional, and complete README.md** for your project based on the functionality in your uploaded files (`app.py`, `chatbot.py`, `check_models.py`).
-You can directly copy-paste this into **README.md**.
-
----
-
 # 🚀 Multipurpose GenAI Chatbot
 
 A powerful **multi-modal** chatbot application built using **Gradio**, **Google Gemini**, **Hugging Face models**, and **OpenAI APIs**, supporting:
